@@ -1,0 +1,1 @@
+def tabela_verdade():
